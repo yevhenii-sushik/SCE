@@ -41,10 +41,10 @@ This section contains everything a user needs to start using #SCE.
 3. Log in to your profile and enjoy the convenience!
 
 ### 📄 Documentation 
-1. [User Manual]()
-2. [Roadmap]()
-3. [Changelog]()
-4. [License]()
+1. [User Manual](https://github.com/yevhenii-sushik/SCE/blob/main/Documentation/MANUAL.md)
+2. [Roadmap](https://github.com/yevhenii-sushik/SCE/blob/main/Documentation/ROADMAP.md)
+3. [Changelog](https://github.com/yevhenii-sushik/SCE/blob/main/Documentation/CHANGELOG.md)
+4. [License](https://github.com/yevhenii-sushik/SCE/blob/main/Documentation/LICENSE.md)
 
 <br/>
 
